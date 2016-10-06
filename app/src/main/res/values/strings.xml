@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Vector Calculator</string>
+    <string name="vector1">Vector A</string>
+    <string name="vector2">Vector B</string>
+    <string name="button_text1">Add</string>
+    <string name="button_text2">Subtract</string>
+    <string name="button_text3">Dot Product</string>
+    <string name="button_text4">Cross Product</string>
+    <string name="button_text5">Give Lengths</string>
+
+</resources>
